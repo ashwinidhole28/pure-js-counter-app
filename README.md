@@ -5,9 +5,12 @@
 #script.js
 ![image](https://github.com/ashwinidhole28/pure-js-counter-app/assets/159869231/9b6d2e3c-2316-4b6e-80af-f80092eca956)
 #OutPut
-![image](https://github.com/ashwinidhole28/pure-js-counter-app/assets/159869231/d12568fa-bf95-4e13-8a62-7693baccaa9b)
-![image](https://github.com/ashwinidhole28/pure-js-counter-app/assets/159869231/b473eed4-29e9-4404-923d-d5fb70c17d0b)
-![image](https://github.com/ashwinidhole28/pure-js-counter-app/assets/159869231/7562f44e-d21b-4751-bb6a-54fb119737fc)
-![image](https://github.com/ashwinidhole28/pure-js-counter-app/assets/159869231/c330d8b3-236e-4d35-b75f-3d9aacfd5cfe)
+
+![image](https://github.com/ashwinidhole28/pure-js-counter-app/assets/159869231/b1d450dd-ff7e-4192-b183-28b4c2933232)
+![image](https://github.com/ashwinidhole28/pure-js-counter-app/assets/159869231/b0cdaf86-cb4d-40f4-81e8-0c2a9a289589)
+
+![image](https://github.com/ashwinidhole28/pure-js-counter-app/assets/159869231/24dfff63-5408-4256-b995-81f7f02a2f2a)
+
+![image](https://github.com/ashwinidhole28/pure-js-counter-app/assets/159869231/5b299c68-97fc-4c66-9aaf-d4f27a766a05)
 
 
